@@ -2,7 +2,6 @@
 # -*- coding: utf8 -*-
 
 import os
-
 import serial
 import serial.tools.list_ports
 
