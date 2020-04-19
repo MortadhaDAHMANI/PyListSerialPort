@@ -1,4 +1,11 @@
 # PyListSerialPort :computer: :electric_plug:
+## Summary
+#### What is Serial port?
+In computing, a serial port is a serial communication interface through which information transfers in or out sequentially one bit at a time. This is in contrast to a parallel port which communicates multiple bits simultaneously in parallel. Throughout most of the history of personal computers, data was transferred through serial ports to devices such as modems, terminals, and various peripherals.
+
+While such interfaces as Ethernet, FireWire, and USB all send data as a serial stream, the term serial port usually identifies hardware compliant to the RS-232 standard or similar and intended to interface with a modem or with a similar communication device. It can also refer to hardware compliant to other standards, such as RS-485 and RS-422, that are often used in industrial settings.
+
+Modern computers without serial ports may require USB-to-serial converters to allow compatibility with RS-232 serial devices. Serial ports are still used in applications such as industrial automation systems, scientific instruments, point of sale systems and some industrial and consumer products. Server computers may use a serial port as a control console for diagnostics. Network equipment (such as routers and switches) often use serial console for configuration. Serial ports are still used in these areas as they are simple, cheap and their console functions are highly standardized and widespread. A serial port requires very little supporting software from the host system. 
 
 ## Requirements
 - ``Python 2.7 or Python 3.4 and newer``
@@ -45,4 +52,4 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 06 April 2020
 
 ### License
-* PyListSerialPort is distributed under the **LGPL** version 3 license.
+* _PyListSerialPort_ is distributed under the **LGPL** version 3 license.
