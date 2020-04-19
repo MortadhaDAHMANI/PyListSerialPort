@@ -1,4 +1,4 @@
-# PyListSerialPort
+# PyListSerialPort :computer: :electric_plug:
 
 ## Requirements
 - ``Python 2.7 or Python 3.4 and newer``
